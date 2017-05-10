@@ -3,5 +3,5 @@
 # DASAR-DASAR CODEIGNITER 3 - SESI 3 
 
 # AUTHORS
-** 1. Zamah Sari **
-** 1. Agil Baskar Gumilar **
+1. ** Zamah Sari **
+1. ** Agil Baskar Gumilar **
